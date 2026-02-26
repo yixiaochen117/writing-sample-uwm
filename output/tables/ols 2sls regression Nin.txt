@@ -1,0 +1,11 @@
+Regression Sample Size: 20478
+
+--- OLS Results (Ninput Coefficient) ---
+['', 'coef', 'std err', 't', 'P>|t|', '[0.025', '0.975]']
+['Ninput', '    0.0697', '    0.004', '   17.504', ' 0.000', '    0.062', '    0.078']
+
+--- First Stage (Gas Price Coefficient) ---
+['Gas_Price', '   -0.0202', '    0.008', '   -2.511', ' 0.012', '   -0.036', '   -0.004']
+
+--- 2SLS Results (Ninput Coefficient) ---
+['Ninput_hat', '   -3.3470', '    0.227', '  -14.712', ' 0.000', '   -3.793', '   -2.901']
